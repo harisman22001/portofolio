@@ -1,0 +1,21 @@
+.container {
+  height: 100%;
+  max-width: 960px;
+}
+
+.text-badge {
+  padding: .1em .4em;
+  background: var(--bs-dark);
+}
+
+.banner {
+  padding: 2em 1em;
+  text-align: center;
+  background: var(--bs-primary);
+  border-radius: 1em;
+}
+
+.projects {
+  --bs-gutter-y: 1.5rem;
+}
+
